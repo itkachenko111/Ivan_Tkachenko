@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/pdf/Pan)
+[Project 3 Title](/pdf/Pan.pdf)
 <img src="images/HIV.jpg?raw=true"/>
 
 ---
