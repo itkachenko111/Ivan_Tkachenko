@@ -20,7 +20,7 @@
 <img src="images/Tab.PNG"/>
 
 ---
-[Presentation: Pandemic](/pdf/Pan)
+[Presentation: Pandemic](/pdf/Pan.pdf)
 <img src="images/HIV.PNG"/>
 
 ---
