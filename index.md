@@ -8,8 +8,16 @@
 <img src="images/HIV.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[QlikView](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Google Data Studio](/pdf/Pan)
+<img src="images/HIV.PNG"/>
+
+---
+[Tableau](/pdf/Pan)
+<img src="images/HIV.PNG"/>
 
 ---
 [Presentation: Pandemic](/pdf/Pan)
