@@ -16,7 +16,7 @@
 <img src="images/HIV.PNG"/>
 
 ---
-[Tableau](/pdf/Pan)
+[Tableau](/pdf/Tableau.pptx)
 <img src="images/HIV.PNG"/>
 
 ---
