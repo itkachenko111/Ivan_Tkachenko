@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](/pdf/Pan.pdf)
-<img src="images/HIV.jpg"/>
+<img src="images/HIV.PNG"/>
 
 ---
 
