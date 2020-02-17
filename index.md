@@ -5,7 +5,7 @@
 ### Data Visualization
 
 [MicroStrategy](/sample_page)
-<img src="images/HIV.jpg?raw=true"/>
+<img src="images/HIV.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
