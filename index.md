@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="pdf/Pandemic New.PDF"/>
+<img src="pdf/Pandemic New.PDF?raw=true"/>
 
 ---
 
