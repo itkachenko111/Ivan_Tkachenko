@@ -17,7 +17,7 @@
 
 ---
 [Tableau](/pdf/Tableau.pptx)
-<img src="images/HIV.PNG"/>
+<img src="images/Tab.PNG"/>
 
 ---
 [Presentation: Pandemic](/pdf/Pan)
