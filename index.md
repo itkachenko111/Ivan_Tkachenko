@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/pdf/Pandemia New.pdf)
 <img src="pdf/Pandemic New.PDF?raw=true"/>
 
 ---
