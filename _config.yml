@@ -2,9 +2,9 @@ title: Ivan Tkachenko # your name (or website title) here
 logo: "HY9dU3luvl.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Hello<br>
   Second description 
-  <br><br>
+  <br>its me<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
