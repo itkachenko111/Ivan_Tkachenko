@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/pdf/Pandemia New.pdf)
-<img src="images/HIV.jpg/>
+[Project 3 Title](/pdf/Pandemic New.pdf)
+<img src="images/HIV.jpg?raw=true"/>
 
 ---
 
