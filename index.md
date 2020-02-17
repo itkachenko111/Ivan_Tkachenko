@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Visualization
 
 [MicroStrategy](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
