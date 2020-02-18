@@ -12,7 +12,7 @@
 <img src="images/Qlik.PNG"/>
 
 ---
-[Google Data Studio](/pdf/Google1.PDF)
+[Google Data Studio](/pdf/Google1.pdf)
 <img src="images/Google.PNG"/>
 
 ---
