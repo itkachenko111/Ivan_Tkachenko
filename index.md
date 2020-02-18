@@ -8,7 +8,7 @@
 <img src="images/Micro.PNG"/>
 
 ---
-<span style="font-size:120%">[QlikView](/pdf/Qlik.pdf)</span>
+<strong><span style="font-size:120%">[QlikView](/pdf/Qlik.pdf)</span></strong>
 <img src="images/Qlik.PNG"/>
 
 ---
