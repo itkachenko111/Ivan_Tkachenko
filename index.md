@@ -4,7 +4,7 @@
 
 ### Data Visualization
 
-[MicroStrategy](/sample_page)
+<h2 style="text-align: center;>[MicroStrategy]</h2>(/sample_page)
 <img src="images/Micro.PNG"/>
 
 ---
