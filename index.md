@@ -24,7 +24,7 @@
 <img src="images/HIV.PNG"/>
 
 ---
-[Presentation: Locksmiths](/pdf/Lock.pdf)
+[Presentation: The Flying Locksmiths](/pdf/Lock.pdf)
 <img src="images/Lock2.PNG"/>
 
 
