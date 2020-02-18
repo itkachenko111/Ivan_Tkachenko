@@ -9,7 +9,7 @@
 
 ---
 [QlikView](/pdf/Qlik.pdf)
-<img src="images/Qlik.PNG"/>
+<img src="images/Qlik.PNG"/>(/pdf/Qlik.pdf)
 
 ---
 [Google Data Studio](/pdf/Google1.pdf)
