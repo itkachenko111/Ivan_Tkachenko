@@ -21,7 +21,7 @@
 
 ---
 [Presentation: Pandemic](/pdf/Pan.pdf)
-<img src="images/HIV.PNG"/><img src="images/Tab.PNG"/>
+<img src="images/HIV.PNG"/>
 
 
 ---
