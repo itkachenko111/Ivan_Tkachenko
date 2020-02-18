@@ -13,7 +13,7 @@
 
 ---
 [Google Data Studio](/pdf/Pan)
-<img src="images/HIV.PNG"/>
+<img src="images/Google.PNG"/>
 
 ---
 [Tableau](/pdf/Tableau.pdf)
