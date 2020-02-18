@@ -25,7 +25,7 @@
 
 ---
 [Presentation: The Flying Locksmiths](/pdf/Lock.pdf)
-<img src="images/Lock2.PNG"/>
+<img src="images/Lock2.png"/>
 
 
 
