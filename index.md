@@ -8,7 +8,7 @@
 <img src="images/Micro.PNG"/>
 
 ---
-[QlikView](/pdf/Qlik.pdf)
+<h2>[QlikView]</h2>(/pdf/Qlik.pdf)
 <img src="images/Qlik.PNG"/>
 
 ---
