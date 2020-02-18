@@ -1,8 +1,8 @@
-<h1 style="text-align: center;"><span style="color: #000080;"><strong>Portfolio</strong></span></h1>
+<h1 style="text-align: center;"><span style="color:blue;"><strong>Portfolio</strong></span></h1>
 
 ---
+<h1 style="text-align: center;"><span style="color: #000080;"><strong>Data Vizualization</strong></span></h1>
 
-### Data Visualization
 
 [MicroStrategy](/sample_page)
 <img src="images/Micro.PNG"/>
