@@ -1,4 +1,4 @@
- Portfolio
+<h1 style="text-align: center;"><span style="color: #000080;"><strong>Portfolio</strong></span></h1>
 
 ---
 
