@@ -1,7 +1,7 @@
-<h1 style="text-align: center;"><span style="color:blue;"><strong>Portfolio</strong></span></h1>
+<h1 style="text-align: center;"><span style="color= blue;"><strong>Portfolio</strong></span></h1>
 
 ---
-<h1 style="text-align: center;"><span style="color: #000080;"><strong>Data Vizualization</strong></span></h1>
+<h2 style="text-align: center;"><span style="color: #000080;"><strong>Data Vizualization</strong></span></h2>
 
 
 [MicroStrategy](/sample_page)
