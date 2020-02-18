@@ -9,7 +9,7 @@
 
 ---
 [QlikView](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Qlik.jpg?raw=true"/>
 
 ---
 [Google Data Studio](/pdf/Pan)
