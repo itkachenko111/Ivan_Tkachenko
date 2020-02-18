@@ -4,7 +4,7 @@
 <h2 style="text-align: center;"><span style="color: red;"><strong>Data Vizualization</strong></span></h2>
 
 
-[MicroStrategy](/sample_page)
+<span style="font-size:120%">[MicroStrategy](/sample_page)</span>
 <img src="images/Micro.PNG"/>
 
 ---
@@ -16,15 +16,15 @@
 <img src="images/Google.PNG"/>
 
 ---
-[Tableau](/pdf/Tableau.pdf)
+<span style="font-size:120%">[Tableau](/pdf/Tableau.pdf)</span>
 <img src="images/Tab.PNG"/>
 
 ---
-[Presentation: Pandemic](/pdf/Pan.pdf)
+<span style="font-size:120%">[Presentation: Pandemic](/pdf/Pan.pdf)</span>
 <img src="images/HIV.PNG"/>
 
 ---
-[Presentation: The Flying Locksmiths](/pdf/Lock.pdf)
+<span style="font-size:120%">[Presentation: The Flying Locksmiths](/pdf/Lock.pdf)</span>
 <img src="images/Lock2.png"/>
 
 
