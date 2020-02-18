@@ -5,7 +5,7 @@
 ### Data Visualization
 
 [MicroStrategy](/sample_page)
-<img src="images/HIV.PNG?raw=true"/>
+<img src="images/Micro.PNG"/>
 
 ---
 [QlikView](/pdf/sample_presentation.pdf)
