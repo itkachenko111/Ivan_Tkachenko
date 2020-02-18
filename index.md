@@ -25,7 +25,7 @@
 
 ---
 [Presentation: Locksmiths](/pdf/Lock.pdf)
-<img src="images/HIV.PNG"/>
+<img src="images/Lock2.PNG"/>
 
 
 
