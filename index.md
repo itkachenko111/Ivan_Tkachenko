@@ -8,11 +8,11 @@
 <img src="images/Micro.PNG"/>
 
 ---
-QlikView (/pdf/Qlik.pdf)
+[QlikView] (/pdf/Qlik.pdf)
 <img src="images/Qlik.PNG"/>
 
 ---
-<span style="font-size:80%">[Google Data Studio](/pdf/Google1.pdf)</span>
+<span style="font-size:120%">[Google Data Studio](/pdf/Google1.pdf)</span>
 <img src="images/Google.PNG"/>
 
 ---
