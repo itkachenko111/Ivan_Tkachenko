@@ -4,7 +4,7 @@
 <h2 style="text-align: center;"><span style="color: red;"><strong>Data Vizualization</strong></span></h2>
 
 
-<span style="font-size:120%">[MicroStrategy](/sample_page)</span>
+<strong><span style="font-size:120%">[MicroStrategy](/sample_page)</span></strong>
 <img src="images/Micro.PNG"/>
 
 ---
@@ -12,19 +12,19 @@
 <img src="images/Qlik.PNG"/>
 
 ---
-<span style="font-size:120%">[Google Data Studio](/pdf/Google1.pdf)</span>
+<strong><span style="font-size:120%">[Google Data Studio](/pdf/Google1.pdf)</span></strong>
 <img src="images/Google.PNG"/>
 
 ---
-<span style="font-size:120%">[Tableau](/pdf/Tableau.pdf)</span>
+<strong><span style="font-size:120%">[Tableau](/pdf/Tableau.pdf)</span></strong>
 <img src="images/Tab.PNG"/>
 
 ---
-<span style="font-size:120%">[Presentation: Pandemic](/pdf/Pan.pdf)</span>
+<strong><span style="font-size:120%">[Presentation: Pandemic](/pdf/Pan.pdf)</span></strong>
 <img src="images/HIV.PNG"/>
 
 ---
-<span style="font-size:120%">[Presentation: The Flying Locksmiths](/pdf/Lock.pdf)</span>
+<strong><span style="font-size:120%">[Presentation: The Flying Locksmiths](/pdf/Lock.pdf)</span></strong>
 <img src="images/Lock2.png"/>
 
 
