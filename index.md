@@ -4,11 +4,11 @@
 
 ### Data Visualization
 
-<h2>MicroStrategy(/sample_page)</h2>
+[MicroStrategy](/sample_page)
 <img src="images/Micro.PNG"/>
 
 ---
-<h2>QlikView(/pdf/Qlik.pdf)</h2>
+[QlikView](/pdf/Qlik.pdf)
 <img src="images/Qlik.PNG"/>
 
 ---
