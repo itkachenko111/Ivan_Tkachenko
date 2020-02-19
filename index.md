@@ -5,7 +5,7 @@
 
 
 <strong><span style="font-size:120%">[MicroStrategy](/sample_page)</span></strong>
-<img src="images/Micro.PNG"/>
+<img src="images/M.PNG"/>
 
 ---
 <strong><span style="font-size:120%">[QlikView](/pdf/Qlik.pdf)</span></strong>
