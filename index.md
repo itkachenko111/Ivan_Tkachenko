@@ -4,7 +4,7 @@
 <h2 style="text-align: center;"><span style="color: red;"><strong>Data Vizualization</strong></span></h2>
 
 
-<strong><span style="font-size:120%">[MicroStrategy](/sample_page)</span></strong>
+<strong><span style="font-size:120%">[MicroStrategy](pdf/Mic.pdf)</span></strong>
 <img src="images/M.PNG"/>
 
 ---
