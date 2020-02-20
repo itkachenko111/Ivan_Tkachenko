@@ -20,6 +20,9 @@
 <img src="images/Tab.jpg"/>
 
 ---
+<h2 style="text-align: center;"><span style="color: red;"><strong>Presentation:</strong></span></h2>
+
+---
 <strong><span style="font-size:120%">[Presentation: Pandemic](/pdf/Pan.pdf)</span></strong>
 <img src="images/HIV.PNG"/>
 
