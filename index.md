@@ -23,11 +23,11 @@
 <h2 style="text-align: center;"><span style="color: red;"><strong>Presentation:</strong></span></h2>
 
 ---
-<strong><span style="font-size:120%">[Presentation: Pandemic](/pdf/Pan.pdf)</span></strong>
+<strong><span style="font-size:120%">[Pandemic](/pdf/Pan.pdf)</span></strong>
 <img src="images/HIV.PNG"/>
 
 ---
-<strong><span style="font-size:120%">[Presentation: The Flying Locksmiths](/pdf/Lock.pdf)</span></strong>
+<strong><span style="font-size:120%">[The Flying Locksmiths](/pdf/Lock.pdf)</span></strong>
 <img src="images/Lock2.png"/>
 
 
