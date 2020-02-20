@@ -17,7 +17,7 @@
 
 ---
 <strong><span style="font-size:120%">[Tableau](/pdf/Tableau.pdf)</span></strong>
-<img src="images/Tab.PNG"/>
+<img src="images/Tab.jpg"/>
 
 ---
 <strong><span style="font-size:120%">[Presentation: Pandemic](/pdf/Pan.pdf)</span></strong>
