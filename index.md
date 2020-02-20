@@ -13,7 +13,7 @@
 
 ---
 <strong><span style="font-size:120%">[Google Data Studio](/pdf/Google1.pdf)</span></strong>
-<img src="images/Google.PNG"/>
+<img src="images/Google.PNG"/> 
 
 ---
 <strong><span style="font-size:120%">[Tableau](/pdf/Tableau.pdf)</span></strong>
