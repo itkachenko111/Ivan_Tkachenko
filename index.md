@@ -42,7 +42,6 @@
 
 ---
 <strong><span style="font-size:120%">[The Flying Locksmiths](/pdf/Lock.pdf)</span></strong>
-<img src="images/Lock2.png"/>
 
  <a href="pdf/Lock.pdf">
   <img src="images/Lock2.png"/>
