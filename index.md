@@ -26,7 +26,6 @@
 
 ---
 <strong><span style="font-size:120%">[Tableau](/pdf/Tableau.pdf)</span></strong>
-<img src="images/Tab.jpg"/>
 
  <a href="/pdf/Tableau.pdf">
   <img src="images/Tab.jpg"/>
