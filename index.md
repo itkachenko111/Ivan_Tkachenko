@@ -13,7 +13,7 @@
 ---
 <strong><span style="font-size:120%">[QlikView](/pdf/Qlik.pdf)</span></strong>
 
- <a href="/pdf/Qlik.pdf">
+ <a href="pdf/Qlik.pdf">
   <img src="images/Qlik.jpg"/>
 </a>
 
