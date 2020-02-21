@@ -14,9 +14,17 @@
 <strong><span style="font-size:120%">[QlikView](/pdf/Qlik.pdf)</span></strong>
 <img src="images/Qlik.jpg"/>
 
+ <a href="/pdf/Qlik.pdf">
+  <img src="images/Qlik.jpg"/>
+</a>
+
 ---
 <strong><span style="font-size:120%">[Google Data Studio](/pdf/Google1.pdf)</span></strong>
 <img src="images/Goo.PNG"/> 
+
+ <a href="/pdf/Google1.pdf">
+  <img src="images/Goo.PNG"/>
+</a>
 
 ---
 <strong><span style="font-size:120%">[Tableau](/pdf/Tableau.pdf)</span></strong>
