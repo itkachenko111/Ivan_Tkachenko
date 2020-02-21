@@ -5,9 +5,9 @@
 
 
 <strong><span style="font-size:120%">[MicroStrategy](pdf/Mic.pdf)</span></strong>
-## <img src="images/M.PNG"/>
 
-  <a href="https://www.w3schools.com">
+ <a href="https://www.w3schools.com">
+  <img src="images/M.PNG"/>
 </a>
 
 ---
