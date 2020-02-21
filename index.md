@@ -7,8 +7,7 @@
 <strong><span style="font-size:120%">[MicroStrategy](pdf/Mic.pdf)</span></strong>
 ## <img src="images/M.PNG"/>
 
-<a href="images/M.PNG">
-  <pdf/Mic.pdf>
+  <a href="https://www.w3schools.com">
 </a>
 
 ---
