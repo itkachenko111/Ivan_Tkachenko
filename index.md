@@ -20,14 +20,14 @@
 ---
 <strong><span style="font-size:120%">[Google Data Studio](/pdf/Google1.pdf)</span></strong>
 
- <a href="/pdf/Google1.pdf">
+ <a href="pdf/Google1.pdf">
   <img src="images/Goo.PNG"/>
 </a>
 
 ---
 <strong><span style="font-size:120%">[Tableau](/pdf/Tableau.pdf)</span></strong>
 
- <a href="/pdf/Tableau.pdf">
+ <a href="pdf/Tableau.pdf">
   <img src="images/Tab.jpg"/>
 </a>
 ---
