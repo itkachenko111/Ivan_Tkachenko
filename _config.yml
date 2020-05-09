@@ -7,7 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
 logo: "badge.png" # your photo (or logo) here
   <br><br>
   <a href="https://www.linkedin.com/in/ivan-tkachenko-a79a76124/"><h2>LinkedIn</h2></a> 
-  logo: "badge.png" # your photo (or logo) here
   <br><br>
    
 theme: jekyll-theme-minimal
