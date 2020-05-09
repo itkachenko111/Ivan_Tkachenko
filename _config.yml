@@ -7,6 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
  <a>
   <img src="images/badge.png"/>
 </a>
+ <a>
+  "images/badge.png"
+</a>
   <br><br>
   <a href="https://www.linkedin.com/in/ivan-tkachenko-a79a76124/"><h2>LinkedIn</h2></a> 
   <br><br>
