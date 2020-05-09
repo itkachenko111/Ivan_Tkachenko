@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"><span style="color= blue;"><strong>Portfolio</strong></span></h1>
 
  <a href="pdf/certificate.pdf">
-  <img src="images/M.PNG"/>
+  <img src="images/certificate.PNG"/>
 </a>
 ---
 <h2 style="text-align: center;"><span style="color: red;"><strong>Data Vizualization</strong></span></h2>
